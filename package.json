@@ -1,0 +1,13 @@
+{
+  "name": "app-1",
+  "version": "1.0.0",
+  "description": "Minimal Node.js Hello World web server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
