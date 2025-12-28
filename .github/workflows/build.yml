@@ -41,5 +41,5 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/${{ github.repository_owner }}/remote-power:${{ steps.vars.outputs.VER }}
-            ghcr.io/${{ github.repository_owner }}/remote-power:latest
+            ghcr.io/${{ github.repository_owner }}/app-1:${{ steps.vars.outputs.VER }}
+            ghcr.io/${{ github.repository_owner }}/app-1:latest
